@@ -1,0 +1,6 @@
+#ifndef NUMBER_CHECKER_H_INCLUDED
+#define NUMBER_CHECKER_H_INCLUDED
+
+bool isPositive(int num);
+
+#endif // NUMBER_CHECKER_H_INCLUDED
